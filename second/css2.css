@@ -1,0 +1,28 @@
+html, body {
+	width: 250px;
+	height: 400px;
+}
+.red{
+	background-color: red;
+	width: 30%;
+	height: 100%;
+	float: left;	
+}
+.blue{
+	background-color: blue;
+	width: 30%;
+	height: 100%;
+	float: left;
+}
+.black{
+	background-color: black;
+	width: 40%;
+	height: 70%;
+	float: left;
+}
+img{
+	float: left;
+	width: 100px;
+	height: auto;
+
+}

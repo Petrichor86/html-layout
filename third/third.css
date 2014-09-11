@@ -1,0 +1,35 @@
+.hi{
+	padding: 80px 20px 80px 20px;	
+	background-color: #C0C0C0;
+	margin: 20px 200px;
+	text-align: center;
+	font-size: 130pt;
+	font-family: sans-serif;
+
+}
+.black{
+	background-color: black;
+	padding: 40px;
+	margin: 20px 200px 0px 200px;
+
+}
+.red{
+	background-color: red;
+	padding: 40px;
+	margin: 0px 200px;
+}
+.blue{
+	background-color: #0099FF;
+	padding: 40px;
+	margin: 0px 200px;
+}
+.purple{
+	background-color: #660099;
+	padding: 40px;
+	margin: 0px 200px;
+}
+.gray{
+	background-color: #C0C0C0;
+	padding: 40px;
+	margin: 0px 200px;
+}
